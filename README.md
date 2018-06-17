@@ -32,7 +32,7 @@ The following are the set of guidelines required to run the code and evaluate th
     Files:​ The code are in the Zip file
     
     Data:​ Download the GoogleNews Vectors-negative300.bin file for Word2vec conversion
-    in the model and the dataset from the reference links mentioned below.
+    in the model and the dataset is from the IMDB
     
     Run:​ Run python3 ft2v.py (preferably in a python virtual environment), you can see the
     final results after the execution of code.
